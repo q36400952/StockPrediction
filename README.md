@@ -1,1 +1,1 @@
-# SPP
+# StockPrediction by using MLP model
